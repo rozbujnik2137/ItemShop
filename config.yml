@@ -1,0 +1,5 @@
+#PERMISJA KOMENDY /itemshop
+permission: 'itemshop.admin'
+#WIADOMOSCI
+nopermission: '&cNie masz permisji!'
+usage: '&cPoprawne uzycie: /itemshop ({list}) (gracz)'

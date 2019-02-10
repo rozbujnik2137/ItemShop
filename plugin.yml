@@ -1,0 +1,8 @@
+name: a-itemshop
+version: 0.1
+main: me.allofme.itemshop.Main
+description: Plugin na itemshop by AllOffMe!
+
+commands:
+  itemshop:
+    aliases: [is]

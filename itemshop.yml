@@ -1,0 +1,8 @@
+itemshop:
+  vip:
+    command: 'pex user {PLAYER} group set VIP'
+    message:
+    - ''
+    - '&7Gracz &6{PLAYER} &7kupil range &6&lVIP&7!'
+    - '&7Dziekujemy za wsparcie!'
+    - ''
